@@ -1,7 +1,8 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "http://example.org/"
+baseurl = "https://akbennett.github.io/"
 theme = "aerial"
+publishDir = "docs"
 
 [params]
   name = "Adam Jensen"
