@@ -5,9 +5,9 @@ theme = "aerial"
 publishDir = "docs"
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Untitled"
+  name = "Alan Bennett"
+  about = "Engineering Leader&nbsp;&bull;&nbsp; Persepective &nbsp;&bull;&nbsp; Perserverance"
+  copyright = "Alan Bennett"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
@@ -15,24 +15,29 @@ publishDir = "docs"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/akbnet"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/alankbennett"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/alankbennett/"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/akbennett"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://instagram.com/akbnet"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:alan-web@akb.net?Subject=Hello"
