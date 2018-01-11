@@ -6,7 +6,7 @@ publishDir = "docs"
 
 [params]
   name = "Alan Bennett"
-  about = "Engineering Leader&nbsp;&bull;&nbsp; Persepective &nbsp;&bull;&nbsp; Perserverance"
+  about = "Engineering Leader&nbsp;&bull;&nbsp; Perspective &nbsp;&bull;&nbsp; Perseverance"
   copyright = "Alan Bennett"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
