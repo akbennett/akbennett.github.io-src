@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/akbnet
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://akb.net
+  * I am akbnet (https://keybase.io/akbnet) on keybase.
+  * I have a public key ASASdL0Xr4QtsLcb3Q_hiWCT5utnbVLWQREJYXoa49fu_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201274bd17af842db0b71bdd0fe1896093e6eb676d52d6411109617a1ae3d7eefd0a",
+      "host": "keybase.io",
+      "kid": "01201274bd17af842db0b71bdd0fe1896093e6eb676d52d6411109617a1ae3d7eefd0a",
+      "uid": "a256e1d265b4c81c3c435e9bd1bd7d19",
+      "username": "akbnet"
+    },
+    "merkle_root": {
+      "ctime": 1530293021,
+      "hash": "09ffa0ca653f033fe264e1a4ce610f09f3e28fae54c15077135187400fbdc85acec8656ca4a952dc79750f6c318eb8f9be7dab5b550607939e64e93154f4288c",
+      "hash_meta": "10ccc8d21679e0453ba0c37350a8910fbc42eb166428ea55fb1b6e8ec8e295a5",
+      "seqno": 3175769
+    },
+    "service": {
+      "entropy": "hupQ7hvf3yQQP5Ow6dlEhLbv",
+      "hostname": "akb.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.2"
+  },
+  "ctime": 1530293050,
+  "expire_in": 504576000,
+  "prev": "b33bfabed77c0d863112071125c9e69c71fc4e75da5bcf4e4ddc3548c0a83c01",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEnS9F6+ELbC3G90P4Ylgk+brZ21S1kERCWF6GuPX7v0Kp3BheWxvYWTESpcCBcQgszv6vtd8DYYxEgcRJcnmnHH8TnXaW89OTdw1SMCoPAHEIDsDfk3SHvYXCuzdE+XIe+HOv5YpyP5XaQZvefAOLF6fAgHCo3NpZ8RAekUp5Kms+RlpSNao5y20S94dC3Os2L+Sodj6x1vuX9bcXOIXWRBhnHysJIPXq6GXq2+X9eHy+5m1f+L0a4zaCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILJsrB+mPgSiMpFIYRYqlVrtB7IWXAMzgTgL6SJ+3v1+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akbnet
+
+==================================================================
